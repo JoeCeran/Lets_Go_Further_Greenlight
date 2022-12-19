@@ -1,1 +1,1 @@
-# Lets_Go_Further_Greenlight
+# Repo for the Let's Go Further Greenlight API project
